@@ -92,6 +92,7 @@ ARSDK_OLYMPE_CMD_MAP = {
 
     # "Ardrone3.MediaRecord.VideoV2": ["stop_video_v2", "start_video_v2"],
     # "Ardrone3.MediaStreaming.VideoEnable": ["disable_video_streaming", "enable_video_streaming"],
+    "Ardrone3.MediaStreaming.VideoEnable": "enable_video_streaming",
 
     "Ardrone3.MediaStreaming.VideoStreamMode": "set_stream_mode",
     "Ardrone3.Network.WifiAuthChannel": "get_wifi_auth_channels",
